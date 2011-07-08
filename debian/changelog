@@ -1,0 +1,5 @@
+python-pika (0.9.5) unstable; urgency=low
+
+  * Initial release. v0.9.5
+
+ -- Pavel Trukhanov <p.trukhanov@hh.ru>  Fri, 08 Jul 2011 14:06:09 +0400

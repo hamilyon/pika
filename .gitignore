@@ -10,3 +10,9 @@ examples/blocking/pika
 atlassian*xml
 build
 dist
+debian/compat
+debian/files
+debian/pycompat
+debian/python-module-stampdir/
+debian/python-pika.*
+debian/python-pika/
