@@ -1,3 +1,9 @@
+python-pika (0.9.5-hh1) unstable; urgency=low
+
+  * Upstream changes to fix bugs in blocking connector
+
+ -- Alexander Shaposhnikov <a.shaposhnikov@hh.ru>  Fri, 27 Jan 2012 10:03:00 +0400
+
 python-pika (0.9.5) unstable; urgency=low
 
   * Initial release. v0.9.5
