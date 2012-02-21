@@ -1,3 +1,9 @@
+python-pika (0.9.5-hh2) unstable; urgency=low
+
+  * Blocking connector does not read on publish
+
+ -- Alexander Shaposhnikov <a.shaposhnikov@hh.ru>  Wed, 21 Jan 2012 16:34:06 +0400
+
 python-pika (0.9.5-hh1) unstable; urgency=low
 
   * Upstream changes to fix bugs in blocking connector
